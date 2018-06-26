@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<items>
+		<item src="img/decoration/bridge.png" type="decoration" name="Bridge" price="10000" scale="1" />
+		<item src="img/decoration/hangar.png" type="decoration" name="Hangar" price="20000" scale="1" />
+		
+		<item src="img/workshop/drugstore.png" type="workshop" name="Drugstore" price="30000" scale="1" />
+		<item src="img/workshop/government.png" type="workshop" name="Government" price="40000" scale="1" />
+		<item src="img/workshop/museum.png" type="workshop" name="Museum" price="60000" scale="1" />
+		<item src="img/workshop/property.png" type="workshop" name="Property" price="80000" scale="1" />
+		<item src="img/workshop/Temple-icon.png" type="workshop" name="Temple" price="100000" scale="1" />
+	</items>
+</data>

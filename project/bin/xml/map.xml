@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<map width="12" height="12" url="img/Map1.jpg" />
+	<items>
+		<item type="workshop" name="governament" posx="10" posy="10" />
+	</items>
+</data>

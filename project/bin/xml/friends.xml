@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<friends>
+		<friend name="Name 1" level="10" />
+		<friend name="Name 2" level="30" />
+		<friend name="Name 3" level="20" />
+		<friend name="Name 4" level="10" />
+		<friend name="Name 5" level="14" />
+		<friend name="Name 6" level="13" />
+		<friend name="Name 7" level="12" />
+		<friend name="Name 8" level="17" />
+		<friend name="Name 9" level="14" />
+		<friend name="Name 11" level="19" />
+		<friend name="Name 12" level="25" />
+		<friend name="Name 13" level="13" />
+		<friend name="Name 14" level="11" />
+		<friend name="Name 15" level="32" />
+		<friend name="Name 16" level="44" />
+	</friends>
+</data>
